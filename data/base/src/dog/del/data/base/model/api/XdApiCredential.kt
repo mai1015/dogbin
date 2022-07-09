@@ -1,6 +1,5 @@
 package dog.del.data.base.model.api
 
-import com.sun.org.apache.xml.internal.security.algorithms.implementations.SignatureDSA
 import dog.del.commons.Date
 import dog.del.commons.date
 import dog.del.commons.sha256
